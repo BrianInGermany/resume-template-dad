@@ -1,20 +1,20 @@
 # Degree
-- degree: Fellow of the Society of Actuaries
+- degree: Ausbildung zum Fellow of the Society of Actuaries
   uni: Society of Actuaries
   year: 1971 &mdash; 1973
   # awards:
   #   - award: Cum Laude graduate
   # summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: Bachelor of Arts, Mathematics
+- degree: Bachelor of Arts, Mathematik
   uni: University of Iowa
   year: 1967 &mdash; 1970
   awards:
-    - award: Cum Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+  #   - award: Cum Laude graduate
+  # summary: If you had any meaningful roles at college, feel free to write about them here
 
 - degree: High School Diploma
   uni: East High School
-  year: 1966
+  year: 1962 &mdash; 1966
   # award: Most likely to succeed
   # summary: You can choose to have either a single or multiple awards

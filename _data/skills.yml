@@ -2,7 +2,7 @@
 
 # Public Speaking
 - skill: Öffentliches Reden
-  description: Über die Toastmasters und seine anderen Engagements hat Richard fundierte Erfahrung im Kommunizieren sammeln können.
+  description: Über die Toastmasters und seine anderen Engagements hat Rich fundierte Erfahrung im Kommunizieren sammeln können.
 
 # Languages
 - skill: Sprachen
@@ -10,4 +10,8 @@
 
 # Mentoring
 - skill: Mentoring
-  description: Richard hat mehrjährige ehrenamtliche Erfahrung im Mentoring von Jugendlichen an der Schule.
+  description: Rich hat mehrjährige ehrenamtliche Erfahrung im Mentoring von Jugendlichen an der Schule.
+
+# Tech Skills
+- skill: Microsoft Office
+  description: Durch seine Arbeit als Versicherungsmathematiker hat Rich vertiefte Kenntnisse von Excel, Word und Powerpoint erwerben können.
